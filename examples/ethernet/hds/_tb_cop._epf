@@ -1,1 +1,3 @@
 TOP_MARKER atom 1
+DEFAULT_ARCHITECTURE atom tb_cop
+DEFAULT_FILE atom tb_cop/struct.bd

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_cop
+DEFAULT_FILE atom eth_cop/flow.fc

@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_host
+DEFAULT_FILE atom eth_host/flow.fc

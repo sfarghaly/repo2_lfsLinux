@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom WB_BUS_MON
+DEFAULT_FILE atom @w@b_@b@u@s_@m@o@n/flow.fc

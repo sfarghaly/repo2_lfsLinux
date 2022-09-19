@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_rxethmac
+DEFAULT_FILE atom eth_rxethmac/struct.bd

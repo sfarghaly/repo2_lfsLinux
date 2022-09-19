@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_registers
+DEFAULT_FILE atom eth_registers/struct.bd

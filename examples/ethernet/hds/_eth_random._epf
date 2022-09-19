@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_random
+DEFAULT_FILE atom eth_random/flow.fc

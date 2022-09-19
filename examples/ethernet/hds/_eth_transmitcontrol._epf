@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_transmitcontrol
+DEFAULT_FILE atom eth_transmitcontrol/flow.fc

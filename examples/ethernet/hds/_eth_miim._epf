@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_miim
+DEFAULT_FILE atom eth_miim/struct.bd

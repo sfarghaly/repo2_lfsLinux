@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_wishbone
+DEFAULT_FILE atom eth_wishbone/struct.bd

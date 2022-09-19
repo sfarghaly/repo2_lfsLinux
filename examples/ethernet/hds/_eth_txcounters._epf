@@ -1,0 +1,2 @@
+DEFAULT_ARCHITECTURE atom eth_txcounters
+DEFAULT_FILE atom eth_txcounters/flow.fc
